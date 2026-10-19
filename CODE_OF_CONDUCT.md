@@ -25,10 +25,14 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 This Code of Conduct applies within all project spaces, and also applies when an individual is officially representing the community in public spaces.
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project team responsible for enforcement. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project team responsible for enforcement at community@example.com. All complaints will be reviewed and investigated promptly and fairly. All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
 ## Enforcement Guidelines
-Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct.
+Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
+1. Correction
+2. Warning
+3. Temporary Ban
+4. Permanent Ban
 
 ## Attribution
 This Code of Conduct is adapted from the Contributor Covenant, version 2.0.
